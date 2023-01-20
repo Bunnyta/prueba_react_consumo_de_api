@@ -1,0 +1,30 @@
+.head{ 
+    text-align: center;
+    margin-bottom: 30px;
+    padding-top: 30px;
+}
+
+body{
+    background-image: url(../public/background_pokemon.jpg);
+    background-size: cover;
+}
+.container{    
+    margin: 0;    
+    text-align: center;
+    
+}
+
+.search{
+    margin-bottom: 30px;
+
+}
+
+.containList{
+    margin-top: 30px;
+}
+
+
+.list{
+    list-style: none;
+    font-weight: 900;
+}
