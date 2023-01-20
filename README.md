@@ -1,4 +1,4 @@
 # prueba_react_consumo_de_api
 
 -[Mi Video] (
--[deploy preview] (
+-[deploy preview] (https://verdant-manatee-e32907.netlify.app)
